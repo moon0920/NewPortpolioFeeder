@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">NewPortpolioFeeder</string>
     <string name="textViewTitle">반려견 훈련용 자동 급여기</string>
-    <string name="btnOn">ON</string>
-    <string name="btnFeeder">간식주기</string>
-    <string name="btnSpeaker">소리켜기</string>
-    <string name="btnOff">OFF</string>
+    <string name="btnOn">Choice</string>
+    <string name="btnFeeder">수동간식주기</string>
+    <string name="btnsensor">센서간식주기</string>
+    <string name="btnEnd">종료하기</string>
 </resources>
